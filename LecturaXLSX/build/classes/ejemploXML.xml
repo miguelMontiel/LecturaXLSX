@@ -1,0 +1,77 @@
+<?xml version = "1.0"?>
+
+<ODM  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation = "Test.xsd">
+	<siniestros>
+		<ID>Identificador: </ID>
+		<placa>
+			<num_placa>
+				Número de Placa: 
+			</num_placa>
+			<evento_placa>
+				Eventos en Placa:
+			</evento_placa>
+			<precalificado_placa>
+				<!-- Variable -->
+			</precalificado_placa>
+		</placa>
+		<serie>
+			<num_serie>
+				Número de Serie: 
+			</num_serie>
+			<evento_serie>
+				Eventos en Serie:
+			</evento_serie>
+			<precalificado_serie>
+				<!-- Variable -->
+			</precalificado_serie>
+		</serie>
+		<contratante>
+			<rfc_contratante>
+				RFC del contratante:
+			</rfc_contratante>
+			<evento_contratante>
+				Eventos del contratante:
+			</evento_contratante>
+			<precalificado_contratante>
+				<!-- Variable -->
+			</precalificado_contratante>
+		</contratante>
+		<conductor>
+			<rfc_conductor>
+				RFC del conductor:
+			</rfc_conductor>
+			<evento_conductor>
+				Eventos del conductor:
+			</evento_conductor>
+			<precalificado_conductor>
+				<!-- Variable -->
+			</precalificado_conductor>
+		</conductor>
+	</siniestros>
+
+	<tabla_placa>
+		<placa>
+		</placa>
+	</tabla_placa>
+
+	<tabla_serie>
+		<serie>
+		</serie>
+	</tabla_serie>
+
+	<tabla_contratante>
+		<contratante>
+		</contratante>
+	</tabla_contratante>
+
+	<tabla_conductor>
+		<conductor>
+		</conductor>
+	</tabla_conductor>
+
+	<tabla_eventos>
+		<evento>
+		</evento>
+	</tabla_eventos>
+</ODM>
