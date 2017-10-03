@@ -25,9 +25,9 @@ public class LectorCSV extends seleccionadorCSV
             while((linea = bufferedreader.readLine()) != null)
             {                
                 String[] texto = linea.split(cortarCSV);
+                
                 // Por cada linea que está en el archivo CSV que me están dando voy a imprimirla en una linea diferente. 
                 // Para hacerlo más dinámico puedo guardar cada linea en una variable y exportarla más fácil.
-                
                 for(int i = 0; i < texto.length; i++)
                 {
                     todo = " " + i + ": " + texto[i];

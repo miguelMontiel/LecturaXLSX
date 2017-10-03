@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>mx056319</Author>
+  <LastAuthor>mx056319</LastAuthor>
+  <Created>2017-10-02T17:48:49Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9612</WindowHeight>
+  <WindowWidth>23016</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="ejemplo1">
+  <Table ss:ExpandedColumnCount="199" ss:ExpandedRowCount="6" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Column ss:Index="2" ss:Width="96"/>
+   <Column ss:Width="90"/>
+   <Column ss:Width="68.399999999999991"/>
+   <Column ss:Width="82.199999999999989"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/SiebelMessage</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/@Accion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/@IntObjectFormat</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/@IntObjectName</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/@MessageId</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/@MessageType</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/CatastropheCode</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/ClaimNumber</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/ClaimServiceLocn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/CrossReferencePolicies</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/CurrencyCode</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/Damages-InsuredVehicle</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/DiagnosisCode</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPAgenteSICA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPAsentamiento</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPAveriguacionPrevia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDAsentamiento</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDAsentamientoTipo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDCausa</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDDelegacion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDDelegacionDestino</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDDelegacionOrigen</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDEstado</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDEstadoDestino</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDEstadoOrigen</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDEventoCatastrofico</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDInvestigacion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDMoneda</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDMonedaSICA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDObjetoAsegurado</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDReporta</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDTelefonoTipo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCDTipoVia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPClaveOficina</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCodigoFiliacion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCodigoFiliacionTomador</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCodigoNegocio</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCodigoProductoComercial</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCodigoProductoTecnico</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCodigoSecuenciaOA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPConvenioCDEstatus</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPConvenioCodigo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPConvenioDescripcion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPConvenioEstatus</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPConvenioFinVigencia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPConvenioInicioVigencia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPConvenioVersion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCPDestino</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCPOrigen</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPCristaleraSICA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPDelegacionDestino</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPDelegacionOrigen</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPDescripcionClienteSICA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPDescripcionConcesionarioSICA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPDescripcionObjeto</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPEfectoFin</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPEfectoMovimiento</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPEntrevistadoTel2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPError</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPEstadoDestino</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPEstadoOrigen</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPEventoCatastrofico</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPFechaHoy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPFlgControlReclamos</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPFlgSincronizacion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPGuardadoFlag</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPInconclusoFlag</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPInvestigacion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPLineaNegocio</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPLineaNegocioAfectada</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPLlamadaFin</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPLlamadaInicio</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPNombreViaDestino</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPNombreViaOrigen</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPNomConductor</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPNomEntrevistado</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPNomOperador</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPNumeroVehiculos</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPNumLocalSiniestro</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPObjetoAsegurado</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPObjetoFin</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPObjetoInicio</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPOtrosInformacionTipoCliente</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPOtrosTipoCliente</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPOtrosTipoClienteCD</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPlano</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaCDEstatus</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaCiaLider</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaEstatus</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaInicio</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaTurista</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoCarroceria</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoCDCarroceria</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoCDColor</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoCDMarca</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoCDModelo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoCDTipo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoCDVersion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoColor</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoMarca</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoModelo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoMotor</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoPlacas</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoSerie</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoTipo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVehiculoVersion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVersion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVigenciaFin</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPolizaVigenciaInicio</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPresiniestroGuardadoFlag</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPreSiniestroReadOnly</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPresiniestroSICA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPresiniestroSiNo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPropietario</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPPTDanosCD</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPReporta</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPReportaNombre</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPReportaTelefono</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPSiniestroCiaLider</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPSiniestroCondicionado</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPSolicitudAnticipadaFlag</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPSolicitudAnticipadaServicioFlag</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelConductor</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelefonoCelular</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelefonoExtension</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelefonoLada</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelefonoPais</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelefonoTipo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelEntrevistado</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelEntrevistado1Cel</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelEntrevistado1Ext</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelEntrevistado1Lada</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelEntrevistado1Pais</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelEntrevistado2Cel</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelEntrevistado2Ext</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelEntrevistado2Lada</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelEntrevistado2Pais</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelReportaCel</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelReportaExt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelReportaLada</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTelReportaPais</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTiempoMaxServicio</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTiempoMinServicio</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTipoSiniestro</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTipoUbicacion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTramitadorPrincipal</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTranporteUbicacionMercancia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTransporteCDMedio</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTransporteCDMoneda</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTransportePropio</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPTransporteValorEmbarque</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPUbicacionCAPP</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPUbicacionEntre</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPUbicacionEntre2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPUbicacionKM</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPUbicacionNombreVia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPUbicacionNumeroVia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPUbicacionSupervisoria</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPUbicacionX</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPUbicacionY</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoCarroceria</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoCDCarroceria</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoCDColor</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoCDMarca</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoCDModelo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoCDTipo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoCDVersion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoColor</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoDescripcion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoMarca</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoModelo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoMotor</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoOtrosDescripcion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoPlacas</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoSerie</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoSync</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/GNPVehiculoVersion</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/ListOfGnpSiniestrosServiciosDanosBc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/LocationType</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/LossCause</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/LossDate</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/LossDescription</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/LossLocationCity</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/LossLocationCounty</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/LossLocationZip</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/LossTime</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/LossTypeCode</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/PolicyNumber</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/ProcedureCode</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/Referral</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/ReportedDate</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/SalvageComments</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/SubrogationFlag</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/SummaryCode</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/TotalClaimPayments</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/TotalClaimReserves</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/TotalSalvageRecovery</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/TotalSubRecovery</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/VisitType</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">/ListOfGnpAperturaSiniestrosDanosIo/InsClaims/WasanyoneInjured</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Alta</Data></Cell>
+    <Cell><Data ss:Type="String">Siebel Hierarchical</Data></Cell>
+    <Cell><Data ss:Type="String">GNP Apertura Siniestros Danos IO</Data></Cell>
+    <Cell><Data ss:Type="String">2-ORTO</Data></Cell>
+    <Cell><Data ss:Type="String">Integration Object</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">2-21GRUO</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="Number">374852838</Data></Cell>
+    <Cell><Data ss:Type="String">MONEDA NACIONAL</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">ACCIDENTE</Data></Cell>
+    <Cell><Data ss:Type="Number">9013</Data></Cell>
+    <Cell ss:Index="22"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:Index="27"><Data ss:Type="String">MXP</Data></Cell>
+    <Cell ss:Index="29"><Data ss:Type="Number">104</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="37"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="55" ss:StyleID="s67"><Data ss:Type="String">08/01/2018</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">08/01/2017</Data></Cell>
+    <Cell ss:Index="62" ss:StyleID="s67"><Data ss:Type="String">09/28/2017 13:56:14</Data></Cell>
+    <Cell ss:Index="64"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:Index="68"><Data ss:Type="String">D</Data></Cell>
+    <Cell><Data ss:Type="String">D</Data></Cell>
+    <Cell ss:Index="75"><Data ss:Type="String">pablo ortiz</Data></Cell>
+    <Cell ss:Index="79"><Data ss:Type="String">PRUEBAS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">08/01/2018</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">08/01/2017</Data></Cell>
+    <Cell><Data ss:Type="String">DA001</Data></Cell>
+    <Cell ss:Index="89" ss:StyleID="s67"><Data ss:Type="String">08/01/2017 00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:Index="106"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="109"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:Index="112"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:Index="115"><Data ss:Type="String">Agente</Data></Cell>
+    <Cell><Data ss:Type="String">pedro</Data></Cell>
+    <Cell><Data ss:Type="Number">13345555555</Data></Cell>
+    <Cell ss:Index="119"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="Number">13345555555</Data></Cell>
+    <Cell ss:Index="126"><Data ss:Type="Number">52</Data></Cell>
+    <Cell ss:Index="128"><Data ss:Type="Number">123456789</Data></Cell>
+    <Cell ss:Index="132"><Data ss:Type="Number">52</Data></Cell>
+    <Cell ss:Index="136"><Data ss:Type="Number">52</Data></Cell>
+    <Cell ss:Index="140"><Data ss:Type="Number">52</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">00:40:00</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">00:20:00</Data></Cell>
+    <Cell><Data ss:Type="String">Incendio</Data></Cell>
+    <Cell ss:Index="151"><Data ss:Type="String">PRUEBA</Data></Cell>
+    <Cell ss:Index="155"><Data ss:Type="String">via mire</Data></Cell>
+    <Cell ss:Index="157"><Data ss:Type="String">METROPOLITANO</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="179"><Data ss:Type="String">DA08</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">08/02/2017 00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">accedente</Data></Cell>
+    <Cell><Data ss:Type="String">TLAHUAC</Data></Cell>
+    <Cell><Data ss:Type="String">DISTRITO FEDERAL</Data></Cell>
+    <Cell><Data ss:Type="Number">13150</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">1980/01/01 11:00:00</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:Index="188"><Data ss:Type="String">Alta</Data></Cell>
+    <Cell><Data ss:Type="String">No hay</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">09/28/2017 13:56:14</Data></Cell>
+    <Cell><Data ss:Type="String">accidente</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:Index="195"><Data ss:Type="Number">11111</Data></Cell>
+    <Cell ss:Index="198"><Data ss:Type="String">D0500LEMUR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="6"><Data ss:Type="String">dsf</Data></Cell>
+    <Cell><Data ss:Type="String">fdsfds</Data></Cell>
+    <Cell><Data ss:Type="String">fd</Data></Cell>
+    <Cell><Data ss:Type="String">fds</Data></Cell>
+    <Cell><Data ss:Type="String">fds</Data></Cell>
+    <Cell><Data ss:Type="String">fds</Data></Cell>
+    <Cell><Data ss:Type="String">fdsfds</Data></Cell>
+    <Cell><Data ss:Type="String">fds</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7"><Data ss:Type="String">fdsfdsfds</Data></Cell>
+    <Cell><Data ss:Type="String">fds</Data></Cell>
+    <Cell><Data ss:Type="String">fds</Data></Cell>
+    <Cell><Data ss:Type="String">fds</Data></Cell>
+    <Cell><Data ss:Type="String">fdfds</Data></Cell>
+    <Cell><Data ss:Type="String">fdsfds</Data></Cell>
+    <Cell><Data ss:Type="String">fds</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10"><Data ss:Type="String">ddf</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>4</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
