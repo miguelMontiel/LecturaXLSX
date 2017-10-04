@@ -1,7 +1,6 @@
 package lectores;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
@@ -40,8 +39,10 @@ public class LectorCSV extends seleccionadorCSV
                 System.out.println();
             }
         }
-        catch(FileNotFoundException e){}
-        catch(IOException e){}
+        catch(IOException e)
+        {
+            e.printStackTrace();
+        }
         finally
         {
             if(bufferedreader != null)
@@ -50,7 +51,10 @@ public class LectorCSV extends seleccionadorCSV
                 {
                     bufferedreader.close();
                 }
-                catch(IOException e){}
+                catch(IOException e)
+                {
+                    e.printStackTrace();
+                }
             }
         }
         return null;

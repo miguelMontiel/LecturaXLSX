@@ -3,12 +3,12 @@
    <ListOfGnpAperturaSiniestrosDanosIo>
       <InsClaims>
          <CatastropheCode />
-         	<ClaimNumber>2-21GRUO</ClaimNumber>
+         <ClaimNumber>2-21GRUO</ClaimNumber>
          <ClaimServiceLocn />
-         	<CrossReferencePolicies>00000374852838</CrossReferencePolicies>
-         	<CurrencyCode>MONEDA NACIONAL</CurrencyCode>
+         <CrossReferencePolicies>00000374852838</CrossReferencePolicies>
+         <CurrencyCode>MONEDA NACIONAL</CurrencyCode>
          <Damages-InsuredVehicle>N</Damages-InsuredVehicle>
-         	<DiagnosisCode>0</DiagnosisCode>
+         <DiagnosisCode>0</DiagnosisCode>
          <GNPAgenteSICA />
          <GNPCDMonedaSICA />
          <GNPClaveOficina />
@@ -23,7 +23,7 @@
          <GNPLlamadaFin />
          <GNPLlamadaInicio />
          <GNPPTDanosCD />
-         	<GNPPresiniestroGuardadoFlag>N</GNPPresiniestroGuardadoFlag>
+         <GNPPresiniestroGuardadoFlag>N</GNPPresiniestroGuardadoFlag>
          <GNPPresiniestroSICA />
          <GNPSiniestroCondicionado>N</GNPSiniestroCondicionado>
          <GNPSolicitudAnticipadaFlag>Y</GNPSolicitudAnticipadaFlag>
@@ -34,26 +34,26 @@
          <GNPAveriguacionPrevia />
          <GNPCDAsentamiento />
          <GNPCDAsentamientoTipo />
-         	<GNPCDCausa>ACCIDENTE</GNPCDCausa>
-         	<GNPCDDelegacion>09013</GNPCDDelegacion>
+         <GNPCDCausa>ACCIDENTE</GNPCDCausa>
+         <GNPCDDelegacion>09013</GNPCDDelegacion>
          <GNPCDDelegacionDestino />
          <GNPCDDelegacionOrigen />
-         	<GNPCDEstado>09</GNPCDEstado>
+         <GNPCDEstado>09</GNPCDEstado>
          <GNPCDEstadoDestino />
          <GNPCDEstadoOrigen />
          <GNPCDEventoCatastrofico />
          <GNPCDInvestigacion />
-         	<GNPCDMoneda>MXP</GNPCDMoneda>
-         	<GNPCDObjetoAsegurado>0000000104</GNPCDObjetoAsegurado>
-         	<GNPCDReporta>6</GNPCDReporta>
+         <GNPCDMoneda>MXP</GNPCDMoneda>
+         <GNPCDObjetoAsegurado>0000000104</GNPCDObjetoAsegurado>
+         <GNPCDReporta>6</GNPCDReporta>
          <GNPCDTelefonoTipo />
          <GNPCDTipoVia />
          <GNPCPDestino />
          <GNPCPOrigen />
          <GNPCodigoFiliacion />
          <GNPCodigoNegocio />
-         	<GNPCodigoProductoComercial>00001</GNPCodigoProductoComercial>
-         	<GNPCodigoSecuenciaOA>1</GNPCodigoSecuenciaOA>
+         <GNPCodigoProductoComercial>00001</GNPCodigoProductoComercial>
+         <GNPCodigoSecuenciaOA>1</GNPCodigoSecuenciaOA>
          <GNPConvenioCDEstatus />
          <GNPConvenioCodigo />
          <GNPConvenioDescripcion />
@@ -63,30 +63,30 @@
          <GNPConvenioVersion />
          <GNPDelegacionDestino />
          <GNPDelegacionOrigen />
-         	<GNPEfectoFin>08/01/2018</GNPEfectoFin>
-         	<GNPEfectoMovimiento>08/01/2017</GNPEfectoMovimiento>
+         <GNPEfectoFin>08/01/2018</GNPEfectoFin>
+         <GNPEfectoMovimiento>08/01/2017</GNPEfectoMovimiento>
          <GNPEntrevistadoTel2 />
          <GNPEstadoDestino />
          <GNPEstadoOrigen />
          <GNPEventoCatastrofico />
-         	<GNPFechaHoy>09/28/2017 13:56:14</GNPFechaHoy>
+         <GNPFechaHoy>09/28/2017 13:56:14</GNPFechaHoy>
          <GNPFlgControlReclamos />
-         	<GNPFlgSincronizacion>Y</GNPFlgSincronizacion>
-         	<GNPGuardadoFlag>Y</GNPGuardadoFlag>
+         <GNPFlgSincronizacion>Y</GNPFlgSincronizacion>
+         <GNPGuardadoFlag>Y</GNPGuardadoFlag>
          <GNPInvestigacion />
-         	<GNPLineaNegocio>D</GNPLineaNegocio>
-         	<GNPLineaNegocioAfectada>D</GNPLineaNegocioAfectada>
+         <GNPLineaNegocio>D</GNPLineaNegocio>
+         <GNPLineaNegocioAfectada>D</GNPLineaNegocioAfectada>
          <GNPNomConductor />
-         	<GNPNomEntrevistado>pablo ortiz</GNPNomEntrevistado>
+         <GNPNomEntrevistado>pablo ortiz</GNPNomEntrevistado>
          <GNPNomOperador />
          <GNPNombreViaDestino />
          <GNPNombreViaOrigen />
          <GNPNumLocalSiniestro />
          <GNPNumeroVehiculos />
-         	<GNPObjetoAsegurado>PRUEBAS</GNPObjetoAsegurado>
-         	<GNPObjetoFin>08/01/2018</GNPObjetoFin>
-         	<GNPObjetoInicio>08/01/2017</GNPObjetoInicio>
-         	<GNPOtrosInformacionTipoCliente>DA001</GNPOtrosInformacionTipoCliente>
+         <GNPObjetoAsegurado>PRUEBAS</GNPObjetoAsegurado>
+         <GNPObjetoFin>08/01/2018</GNPObjetoFin>
+         <GNPObjetoInicio>08/01/2017</GNPObjetoInicio>
+         <GNPOtrosInformacionTipoCliente>DA001</GNPOtrosInformacionTipoCliente>
          <GNPOtrosTipoCliente />
          <GNPOtrosTipoClienteCD />
          <GNPPlano />

@@ -20,7 +20,7 @@ import org.xml.sax.SAXException;
 // De esta clase lo que quiero para poder hacer el nuevo XML es solamente el nombre de los nodos.
 public class lectorXML 
 {
-	public List<String> getNodos(String nodos)
+	public List<String> getNodos(List<String> nodos)
 	{   
         DocumentBuilderFactory documentbuilderfactory = DocumentBuilderFactory.newInstance();
         documentbuilderfactory.setNamespaceAware(true);
@@ -31,9 +31,9 @@ public class lectorXML
         
         try
         {  
-        	DocumentBuilder documentbuilder = documentbuilderfactory.newDocumentBuilder();
+            DocumentBuilder documentbuilder = documentbuilderfactory.newDocumentBuilder();
         	
-        	// El documento de donde quiero obtener los nodos
+            // El documento de donde quiero obtener los nodos
             document = documentbuilder.parse("src/siniestrosDanos.xml");
             
             // Imprime todo, pero no me imprimas el signo '*' en si.
