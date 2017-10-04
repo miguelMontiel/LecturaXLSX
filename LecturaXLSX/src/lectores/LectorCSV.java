@@ -6,14 +6,14 @@ import java.io.IOException;
 
 public class LectorCSV extends seleccionadorCSV
 {
-    public String getTodo(String Todo)
+    public String getTodo(String todo)
     {
         seleccionadorCSV seleccionadorcsv = new seleccionadorCSV();
         String archivoSeleccionado = null;
         BufferedReader bufferedreader = null;
         String linea = "";
         String cortarCSV = ",";
-        String todo = null;
+        String[] texto;
 
         try
         {
@@ -23,20 +23,16 @@ public class LectorCSV extends seleccionadorCSV
             // Mientras exista una linea siguiente el while se va a ejecutar.
             while((linea = bufferedreader.readLine()) != null)
             {                
-                String[] texto = linea.split(cortarCSV);
+                texto = linea.split(cortarCSV);
                 
                 // Por cada linea que está en el archivo CSV que me están dando voy a imprimirla en una linea diferente. 
                 // Para hacerlo más dinámico puedo guardar cada linea en una variable y exportarla más fácil.
                 for(int i = 0; i < texto.length; i++)
                 {
-                    todo = " " + i + ": " + texto[i];
-                    System.out.print(todo);
-                    if(i == texto.length)
-                    {
-                        return todo;
-                    }
+                	todo = texto[i].toString();
+                	System.out.println(todo);
                 }
-                System.out.println();
+
             }
         }
         catch(IOException e)
@@ -57,6 +53,6 @@ public class LectorCSV extends seleccionadorCSV
                 }
             }
         }
-        return null;
+		return todo;
     }
 }
